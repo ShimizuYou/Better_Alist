@@ -6,10 +6,10 @@ Koyuki
 */
 
 body{
-	background-image:url('http://api.hancat.work/cloud/api.php');//将此处替换为你自己的背景图api地址
-	background-repeat:no-repeat;
+	background-image:url('https://s2.loli.net/2024/08/11/zxPOQNjMaVUiqBs.png');//将此处替换为你自己的背景图api地址
+	background-repeat:no-repeat; 
 	background-size:cover;
-	background-attachment: fixed;
+	background-attachment: fixed; 
 }
 
 	@keyframes gradientBG {
