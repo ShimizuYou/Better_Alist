@@ -6,7 +6,7 @@ Koyuki
 */
 
 body{
-	background-image:url('https://s2.loli.net/2024/08/11/zxPOQNjMaVUiqBs.png');//将此处替换为你自己的背景图api地址
+	background-image:url('https://imgapi.lie.moe/random');//将此处替换为你自己的背景图api地址
 	background-repeat:no-repeat; 
 	background-size:cover;
 	background-attachment: fixed; 
